@@ -27,6 +27,6 @@ Jupyter notebook
    
    Select the required input from input folder 
    
-   The ouput gets saved as knife_detection.mp4 file
+   The prediction result is displayed in the terminal and gets saved as knife_detection.mp4 file
    
    When knife is detected the customers are alerted with an alarm.
